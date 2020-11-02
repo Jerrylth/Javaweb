@@ -1,0 +1,12 @@
+UserData
+jst202011546,123123a,1,luotinghui1@163.com
+jst202011549,123123a,1,luotinghui1@163.com
+15197362336,123123a,1,luotinghui1@163.com
+15197362338,123123a,1,luotinghui1@163.com
+151973623399,123123a,1,luotinghui1@163.com
+withoutgood,123123a,1,luotinghui1@163.com
+goodnight,123456789a,1,luotinghui1@163.com
+goodperfect,123456789a,1,1186120147@qq.com
+goodnights,123456789a,1,luotinghui1@163.com
+goodnights,123456789a,1,luotinghui1@163.com
+goodnights,123456789a,1,luotinghui1@163.com
